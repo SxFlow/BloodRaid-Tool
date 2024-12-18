@@ -1,4 +1,5 @@
-BloodRaider Tool
+# BloodRaider Tool
+
 BloodRaider Tool is a software created exclusively for raiding Discord servers belonging to scammers and other malicious activities. This tool is intended only for use by the BloodRaider team and is not authorized for use by anyone outside of our group.
 
 Important Disclaimer:
